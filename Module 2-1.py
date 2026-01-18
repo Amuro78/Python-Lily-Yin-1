@@ -1,2 +1,2 @@
-user=input('enter your name：')
+user=input('Enter your name：')
 print("Hello," + user + "!")
